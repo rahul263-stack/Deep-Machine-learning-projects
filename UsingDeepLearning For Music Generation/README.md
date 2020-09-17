@@ -12,7 +12,7 @@ Now, what is music? In short music is nothing but a __sequence of musical notes_
 __From first data-source, we have downloaded first two files:__
 * Jigs (340 tunes)
 * Hornpipes (65 tunes)
-## How to Run the Model
+## How to Run this Model
 In order to run the model you can run the file " Music_Generation_Train2.ipynb"
 You can also load weights which are in the file" Data2/Model_Weights/". There are total 9 weight files over there. Each weight file represents the epoch number. For instance " Weights_50.h5" are the weights saved at epoch 50. We ran our model for total of 90 epochs. 
 You can add more layers into your model and fine tune the existing layers in the model. Any epoch weight can be loaded for fine tuning or "Transfer Learning".
@@ -36,8 +36,7 @@ You need to have installed following softwares and libraries in your machine bef
 * Keras - Deep Learning Library
 ## Authors
 *Rahul Kuamr - Complete work  
-## References
-* https://www.appliedaicourse.com/
+
 * https://folkrnn.org/
 * https://en.wikipedia.org/wiki/ABC_notation
 * https://abcjs.net/abcjs-editor.html
