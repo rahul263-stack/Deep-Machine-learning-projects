@@ -7,7 +7,7 @@ Data contains two columns: source and destination edge pairs in the directed gra
 - Data columns (total 2 columns):  
 - source_node         int64  
 - destination_node    int64
-## Business objectives and constraints:
+## Business objectives and constraints for this project:
 - No low-latency requirements.
 - Predciting the probability of a link is useful so as to recommend the highest probability links to a user.
 - We got to suggest connnections which are most likley to be correct and we should try and not miss out any connnections.
