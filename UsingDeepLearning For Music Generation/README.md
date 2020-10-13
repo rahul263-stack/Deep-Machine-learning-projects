@@ -35,7 +35,7 @@ You need to have installed following softwares and libraries in your machine bef
 * pandas - data handling library
 * Keras - Deep Learning Library
 ## Authors
-*Rahul Kuamr - Complete work  
+Rahul Kumar - Complete work  
 
 * https://folkrnn.org/
 * https://en.wikipedia.org/wiki/ABC_notation
